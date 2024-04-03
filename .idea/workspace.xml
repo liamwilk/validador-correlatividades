@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff62380a-a432-4ccb-9bd7-6dffc55c9987" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/entidades/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/entidades/Inscripcion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/entidades/Materia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/domain/entidades/TestInscripcion.java" afterDir="false" />
+    <list default="true" id="ff62380a-a432-4ccb-9bd7-6dffc55c9987" name="Changes" comment="feat: code of my solution &amp;&amp; inclusion of tests">
+      <change afterPath="$PROJECT_DIR$/DDS.mdj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "liamwilk"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4d2449ee-22a5-4a0e-8678-3927b62205a3" />
+        <option name="url" value="https://github.com/liamwilk/validador-correlatividades.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -55,6 +63,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/liam/IdeaProjects/validador-correlatividades",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +79,9 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.TestInscripcion">
@@ -157,12 +169,25 @@
       <workItem from="1712000493672" duration="2373000" />
       <workItem from="1712015786602" duration="651000" />
       <workItem from="1712065136831" duration="9189000" />
-      <workItem from="1712075943428" duration="9825000" />
+      <workItem from="1712075943428" duration="10466000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: code of my solution &amp;&amp; inclusion of tests">
+      <option name="closed" value="true" />
+      <created>1712105902318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712105902318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: code of my solution &amp;&amp; inclusion of tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: code of my solution &amp;&amp; inclusion of tests" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
