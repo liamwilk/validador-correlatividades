@@ -237,7 +237,7 @@
 											"top": 241,
 											"width": 309.92138671875,
 											"height": 13,
-											"text": "+cumpleCorrelatividades(unaMateria: Materia): Bool",
+											"text": "+cumpleCorrelativas(unaMateria: Materia): Bool",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2096,7 +2096,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGOnxOubTOWGnY="
 							},
-							"name": "cumpleCorrelatividades",
+							"name": "cumpleCorrelativas",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
